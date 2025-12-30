@@ -2,4 +2,4 @@ Bank Inquiry é uma aplicação simples que criei ao longo da primeira etapa na 
 
 Esse sistema simula operações básicas de uma conta bancária, permitindo consultar saldo, transferir valores, receber depósitos e encerrar a aplicação por meio de um menu interativo.
 
-Esse mini projeto tem como objetivo consolidar alguns conceitos fundamentais da linguagem Java, como variáveis, condicionais, laços de repetição, entrada de dados com Scanner e organização básica de um programa orientado a menus.
+Realizei esse mini projeto com o objetivo de consolidar alguns conceitos fundamentais da linguagem Java, como variáveis, condicionais, laços de repetição, entrada de dados com Scanner e organização básica de um programa orientado a menus.
